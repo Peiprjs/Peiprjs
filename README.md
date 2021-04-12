@@ -21,3 +21,4 @@ While I'm generally in my human (masked for now) form, I'm sometimes in my bug k
 ![alt text](https://media.discordapp.net/attachments/750742704316612749/751541910954311850/94097_8cHq2vUM.png?width=434&height=434 "My unmasked human form")
 ![alt text](https://media.discordapp.net/attachments/750742704316612749/751541909687631982/94097_ypM5ZtaT.png?width=434&height=434 "My masked human form")
 ![alt text](https://media.discordapp.net/attachments/795778879208816710/831107464237285426/Captura_de_2021-04-04_20-08-36-removebg-preview.png?width=343&height=434 "My bug killing octocat form")
+![alt text](https://media.discordapp.net/attachments/795778879208816710/831108672855212052/72313029-removebg-preview.png "My winter-clothed octocat form")
