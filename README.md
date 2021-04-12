@@ -9,4 +9,8 @@ I'm also the Engineering and Avionics Manager for the AEC (Catalan Space Associa
 + My favourite OS is Parrot OS (the Security version, ofc)
 + My favourite computer is my modded HP 6530b, with a 1TB SSD and 8GB of RAM, it works flawlessly.
 + My favourite TV series are those of the 2000's, especially Code Lyoko and Miraculous Ladybug.
-+ My favourite book is...
++ My favourite book is called "La truita cremada".
+
+## Ways to contact me
+You can hit me up on Discord (Peipr#8989), on Twitter (@Peipr1) or by email on my [PeiPhy Support adress](mailto:support@peiphy.xyz) or [my other adress](mailto:peipryt@gmail.com). Yes, I'm a loser, I use GMail. 
+You can find my public PGP signature here. I usually sign everything, and if you'd prefer our conversation to be encrypted, please send me via another method your public key and then send me an message on your preferred platform. I recommend you to use PGP when contacting me.
