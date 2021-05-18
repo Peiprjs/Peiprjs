@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-18T08:16:46.258Z" agent="5.0 (Windows)" etag="UYT-c-ItLF3RZpnPfNgz" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-18T08:25:27.121Z" agent="5.0 (Windows)" etag="5oRWnzTQny9aYtA3DeOo" version="14.6.13" type="github">
   <diagram id="_Oj-c2wmKwDQSt-AS6IX" name="Page-1">
-    <mxGraphModel dx="1108" dy="451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1847" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -169,6 +169,19 @@
         <mxCell id="HlGu5mULXF9mo92fJl-D-8" value="&lt;div&gt;Level 2&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rOXqwB_3zVNSecRi6AGg-77">
           <mxGeometry x="0.2234" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HlGu5mULXF9mo92fJl-D-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;fontSize=16.7;fontColor=#333333;" edge="1" parent="1" source="rOXqwB_3zVNSecRi6AGg-30" target="HlGu5mULXF9mo92fJl-D-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="758" y="530" />
+              <mxPoint x="198" y="530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HlGu5mULXF9mo92fJl-D-37" value="Level 3" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16.7;fontColor=#333333;" vertex="1" connectable="0" parent="HlGu5mULXF9mo92fJl-D-36">
+          <mxGeometry x="0.0469" y="1" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <UserObject label="Determine severity" lucidchartObjectId="a6DDHZqHAU0q" id="rOXqwB_3zVNSecRi6AGg-30">
@@ -480,13 +493,89 @@
         <mxCell id="HlGu5mULXF9mo92fJl-D-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=16.7;fontColor=#333333;exitX=0.411;exitY=-0.07;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="HlGu5mULXF9mo92fJl-D-20" target="rOXqwB_3zVNSecRi6AGg-63">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1797" y="540" />
+              <mxPoint x="1790" y="671" />
+              <mxPoint x="1790" y="540" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="HlGu5mULXF9mo92fJl-D-20" value="Do it" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16.7;fontColor=#333333;strokeColor=#5E5E5E;strokeWidth=2.3;" vertex="1" parent="1">
           <mxGeometry x="1760" y="674.5" width="90" height="50" as="geometry" />
         </mxCell>
+        <UserObject label="Interview the parties involved" lucidchartObjectId="hqEDrXdxle57" id="HlGu5mULXF9mo92fJl-D-22">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;spacing=9;strokeColor=#5e5e5e;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;" vertex="1" parent="1">
+            <mxGeometry x="458" y="1029" width="120" height="78" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Make a Trello card with all the info." lucidchartObjectId="hqEDs6yVUbT5" id="HlGu5mULXF9mo92fJl-D-23">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;spacing=9;strokeColor=#5e5e5e;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;" vertex="1" parent="1">
+            <mxGeometry x="735" y="1023" width="120" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="hqEDZFYXyNE-" id="HlGu5mULXF9mo92fJl-D-24">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#5E5E5E;strokeWidth=1.5;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;;endArrow=block;endFill=1;;exitX=1.009;exitY=0.5;exitPerimeter=0;entryX=-0.009;entryY=0.5;entryPerimeter=0;" edge="1" parent="1" source="HlGu5mULXF9mo92fJl-D-22" target="HlGu5mULXF9mo92fJl-D-23">
+            <mxGeometry width="100" height="100" relative="1" as="geometry">
+              <Array as="points" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <mxCell id="HlGu5mULXF9mo92fJl-D-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HlGu5mULXF9mo92fJl-D-26" target="HlGu5mULXF9mo92fJl-D-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Consider options, meet with all General Managers and Executives." lucidchartObjectId="hqEDzJt~u0qP" id="HlGu5mULXF9mo92fJl-D-26">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;spacing=9;strokeColor=#5e5e5e;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;" vertex="1" parent="1">
+            <mxGeometry x="1013" y="1009" width="158" height="118" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="hqEDnRyQi4Ez" id="HlGu5mULXF9mo92fJl-D-27">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#5E5E5E;strokeWidth=1.5;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;;endArrow=block;endFill=1;;exitX=1.009;exitY=0.5;exitPerimeter=0;entryX=-0.007;entryY=0.5;entryPerimeter=0;" edge="1" parent="1" source="HlGu5mULXF9mo92fJl-D-23" target="HlGu5mULXF9mo92fJl-D-26">
+            <mxGeometry width="100" height="100" relative="1" as="geometry">
+              <Array as="points" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <mxCell id="HlGu5mULXF9mo92fJl-D-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HlGu5mULXF9mo92fJl-D-29" target="HlGu5mULXF9mo92fJl-D-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Inform all the parties involved" lucidchartObjectId="hqEDKGiuaKN8" id="HlGu5mULXF9mo92fJl-D-29">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;spacing=9;strokeColor=#5e5e5e;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;" vertex="1" parent="1">
+            <mxGeometry x="1485" y="1023" width="120" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="HlGu5mULXF9mo92fJl-D-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16.7;fontColor=#333333;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HlGu5mULXF9mo92fJl-D-31" target="HlGu5mULXF9mo92fJl-D-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150.00000000000023" y="1010.0000000000002" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="200" y="1068" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Manager-level Legal team member takes over. No contributors allowed." lucidchartObjectId="crEDSrbjGPza" id="HlGu5mULXF9mo92fJl-D-31">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;spacing=9;strokeColor=#5E5E5E;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;" vertex="1" parent="1">
+            <mxGeometry x="130" y="758" width="135" height="139" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="HlGu5mULXF9mo92fJl-D-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HlGu5mULXF9mo92fJl-D-33" target="HlGu5mULXF9mo92fJl-D-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Vote on the outcome with GM and EM" lucidchartObjectId="VlEDCqgYlr7M" id="HlGu5mULXF9mo92fJl-D-33">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;spacing=9;strokeColor=#5e5e5e;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;" vertex="1" parent="1">
+            <mxGeometry x="1260" y="1023" width="140" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="HlGu5mULXF9mo92fJl-D-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=16.7;fontColor=#333333;" edge="1" parent="1" source="HlGu5mULXF9mo92fJl-D-34" target="rOXqwB_3zVNSecRi6AGg-50">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1850" y="1068" />
+              <mxPoint x="1850" y="850" />
+              <mxPoint x="1740" y="850" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Take action" lucidchartObjectId="cmEDYQ.MPToP" id="HlGu5mULXF9mo92fJl-D-34">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;spacing=9;strokeColor=#5e5e5e;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;" vertex="1" parent="1">
+            <mxGeometry x="1680" y="1023" width="120" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
