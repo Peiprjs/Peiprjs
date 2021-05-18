@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-18T08:38:27.526Z" agent="5.0 (Windows)" etag="XpAIBN23JmYnF8ML8k8R" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-18T08:51:13.097Z" agent="5.0 (Windows)" etag="JHM9MZIahN6MVF6bEjry" version="14.6.13" type="github">
   <diagram id="_Oj-c2wmKwDQSt-AS6IX" name="Page-1">
     <mxGraphModel dx="2770" dy="1128" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -123,7 +123,7 @@
         </mxCell>
         <UserObject label="Same user opens ticket for the same reason" lucidchartObjectId="c5DD-TAG2u.." id="rOXqwB_3zVNSecRi6AGg-24">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;rhombus;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;spacing=3.8;strokeColor=#5e5e5e;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;" parent="1" vertex="1">
-            <mxGeometry x="1230" y="525" width="180" height="135" as="geometry" />
+            <mxGeometry x="1205" y="530" width="230" height="155" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" lucidchartObjectId="u5DD0T0PqOZf" id="rOXqwB_3zVNSecRi6AGg-25">
@@ -134,17 +134,19 @@
           </mxCell>
         </UserObject>
         <UserObject label="" lucidchartObjectId="y5DD4BRuqcgU" id="rOXqwB_3zVNSecRi6AGg-26">
-          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#5E5E5E;strokeWidth=1.5;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;;endArrow=block;endFill=1;;exitX=0.006;exitY=0.5;exitPerimeter=0;" parent="1" source="rOXqwB_3zVNSecRi6AGg-24" edge="1">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#5E5E5E;strokeWidth=1.5;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;;endArrow=block;endFill=1;;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="rOXqwB_3zVNSecRi6AGg-24" edge="1">
             <mxGeometry width="100" height="100" relative="1" as="geometry">
               <Array as="points">
-                <mxPoint x="1231" y="450" />
+                <mxPoint x="1205" y="450" />
               </Array>
               <mxPoint x="1260" y="450" as="targetPoint" />
             </mxGeometry>
           </mxCell>
         </UserObject>
         <mxCell id="rOXqwB_3zVNSecRi6AGg-27" value="WARN" style="text;html=1;resizable=0;labelBackgroundColor=#ffffff;align=center;verticalAlign=middle;fontStyle=1;fontColor=#333333;;fontSize=13.3;" parent="rOXqwB_3zVNSecRi6AGg-26" vertex="1">
-          <mxGeometry x="-0.2659005754225927" relative="1" as="geometry" />
+          <mxGeometry x="-0.2659005754225927" relative="1" as="geometry">
+            <mxPoint y="-30" as="offset" />
+          </mxGeometry>
         </mxCell>
         <UserObject label="" lucidchartObjectId="45DDsq~UsSS_" id="rOXqwB_3zVNSecRi6AGg-28">
           <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13.3;fontColor=#333333;fontStyle=1;strokeColor=#5E5E5E;strokeWidth=1.5;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;;endArrow=block;endFill=1;;exitX=0.5;exitY=0.999;exitPerimeter=0;entryX=0.5;entryY=0.004;entryPerimeter=0;" parent="1" source="rOXqwB_3zVNSecRi6AGg-18" target="rOXqwB_3zVNSecRi6AGg-30" edge="1">
@@ -299,8 +301,8 @@
             <mxGeometry width="100" height="100" relative="1" as="geometry">
               <Array as="points">
                 <mxPoint x="1740" y="720" />
-                <mxPoint x="1420" y="720" />
-                <mxPoint x="1420" y="450" />
+                <mxPoint x="1450" y="720" />
+                <mxPoint x="1450" y="450" />
               </Array>
             </mxGeometry>
           </mxCell>
