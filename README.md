@@ -7,3 +7,4 @@
 My only accepted public PGP keys:
 https://keys.mailvelope.com/pks/lookup?op=get&search=peipryt%40gmail.com
 https://keys.mailvelope.com/pks/lookup?op=get&search=proca001%40jvvgirona.eu
+(my email is peipr@peiphy.xyz)
