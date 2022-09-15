@@ -1,7 +1,7 @@
 <h1 align="center">👋 I'm Peipr a self-taught programmer.</h1>
 <h3 align="center">I love working on random projects! Add me on discord Peipr#8989</h3>
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=peiprjs&show_icons=true&theme=github_dark)](https://github.com/peiprjs)
+[![Stats](https://github-readme-stats.vercel.app/api?username=peiprjs&count_private=true&show_icons=true&theme=github_dark)](https://github.com/peiprjs)
 
 My only accepted public PGP keys:
 https://keys.mailvelope.com/pks/lookup?op=get&search=peipryt%40gmail.com
