@@ -18,6 +18,8 @@ jobs:
           # The following scopes are required:
           #  - public_access (default scope)
           #  - repo
+          #  - public_repo
+          #  - read:project
           # The following additional scopes may be required:
           #  - read:org      (for organization related metrics)
           #  - read:user     (for user related data)
@@ -41,39 +43,41 @@ jobs:
           plugin_activity_limit: 5
           plugin_activity_load: 300
           plugin_activity_visibility: all
+          plugin_calendar: yes
+          plugin_calendar_limit: 1
+          plugin_followup: yes
+          plugin_followup_archived: yes
+          plugin_followup_sections: repositories
+          plugin_gists: yes
           plugin_habits: yes
-          plugin_habits_charts: yes
-          plugin_habits_charts_type: chartist
+          plugin_habits_charts_type: classic
           plugin_habits_days: 14
           plugin_habits_facts: yes
           plugin_habits_from: 200
           plugin_habits_languages_limit: 8
           plugin_habits_languages_threshold: 0%
-          plugin_languages: yes
-          plugin_languages_analysis_timeout: 15
-          plugin_languages_categories: markup, programming
-          plugin_languages_colors: github
-          plugin_languages_limit: 8
-          plugin_languages_other: yes
-          plugin_languages_recent_categories: markup, programming
-          plugin_languages_recent_days: 14
-          plugin_languages_recent_load: 300
-          plugin_languages_sections: most-used
-          plugin_languages_threshold: 0%
           plugin_lines: yes
           plugin_lines_history_limit: 1
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
+          plugin_music: yes
+          plugin_music_limit: 10
+          plugin_music_mode: recent
+          plugin_music_played_at: yes
+          plugin_music_provider: spotify
+          plugin_music_time_range: short
+          plugin_music_top_type: tracks
+          plugin_music_user: peproure
           plugin_notable: yes
-          plugin_notable_from: organization
+          plugin_notable_from: all
+          plugin_notable_repositories: yes
+          plugin_notable_self: yes
           plugin_notable_types: commit
           plugin_pagespeed: yes
           plugin_pagespeed_detailed: yes
           plugin_pagespeed_url: peiphy.xyz
-          plugin_people: yes
-          plugin_people_limit: 24
-          plugin_people_size: 28
-          plugin_people_types: followers, following
+          plugin_projects: yes
+          plugin_projects_limit: 4
           plugin_traffic: yes
           plugin_tweets: yes
           plugin_tweets_limit: 6
