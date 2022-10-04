@@ -76,11 +76,12 @@ jobs:
           plugin_pagespeed: yes
           plugin_pagespeed_detailed: yes
           plugin_pagespeed_url: peiphy.xyz
+          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
           plugin_projects: yes
           plugin_projects_limit: 4
           plugin_traffic: yes
           plugin_tweets: yes
           plugin_tweets_limit: 6
-          plugin_tweets_token: 1206193268192624642-ZDRQFlLGfLEoc62foRLoqXxpYqc2xM
+          plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
           plugin_tweets_user: peipr1
           repositories_forks: yes
