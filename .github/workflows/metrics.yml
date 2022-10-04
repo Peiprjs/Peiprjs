@@ -65,6 +65,7 @@ jobs:
           plugin_music_mode: recent
           plugin_music_played_at: yes
           plugin_music_provider: spotify
+          plugin_music_token: ${{ secrets.MUSIC_TOKEN }}
           plugin_music_time_range: short
           plugin_music_top_type: tracks
           plugin_music_user: peproure
