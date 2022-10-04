@@ -55,6 +55,7 @@ jobs:
           plugin_habits_facts: yes
           plugin_habits_from: 200
           plugin_habits_languages_limit: 8
+          
           plugin_habits_languages_threshold: 0%
           plugin_lines: yes
           plugin_lines_history_limit: 1
@@ -78,6 +79,10 @@ jobs:
           plugin_pagespeed_detailed: yes
           plugin_pagespeed_url: peiphy.xyz
           plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
+          plugin_people: yes
+          plugin_people_limit: 24
+          plugin_people_size: 28
+          plugin_people_types: followers, following
           plugin_projects: yes
           plugin_projects_limit: 4
           plugin_traffic: yes
