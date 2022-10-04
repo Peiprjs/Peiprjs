@@ -18,7 +18,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=peiprjs&label=Profile%20views&color=0e75b6&style=plastic" alt="peiprjs" /> </p>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=peiprjs)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=peiprjs)](https://activity-graph.herokuapp.com/graph?username=peiprjs)
 
 ![Metrics](https://metrics.lecoq.io/Peiprjs?template=classic&isocalendar=1&introduction=1&stars=1&lines=1&projects=1&achievements=1&tweets=1&isocalendar.duration=half-year&introduction.title=true&stars.limit=4&projects.limit=4&projects.descriptions=false&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&tweets.attachments=false&tweets.limit=2&tweets.user=.user.twitter&config.timezone=Europe%2FBerlin)
 
